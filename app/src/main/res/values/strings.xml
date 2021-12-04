@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab05_3</string>
+    <string name="header">Image downloading by Coroutines</string>
+    <string name="image">Image</string> </resources>
