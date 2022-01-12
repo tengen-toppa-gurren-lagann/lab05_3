@@ -6,7 +6,7 @@ import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
-    private val imageURI = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg/800px-Katsushika_Hokusai_-_Thirty-Six_Views_of_Mount_Fuji-_The_Great_Wave_Off_the_Coast_of_Kanagawa_-_Google_Art_Project.jpg"
+    private val imageURI = "https://upload.wikimedia.org/wikipedia/ru/thumb/0/08/Picasso01.jpg/480px-Picasso01.jpg"
     private val imageDownloader = ImageDownloader()
 
     override fun onCreate(savedInstanceState: Bundle?) {
